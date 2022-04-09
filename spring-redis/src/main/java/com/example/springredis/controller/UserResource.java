@@ -1,3 +1,4 @@
+//end point : http://localhost:8083/rest/user/all
 package com.example.springredis.controller;
 
 import com.example.springredis.model.User;
